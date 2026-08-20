@@ -2,7 +2,7 @@
 
 A collection of decision-making frameworks I actually use as a Product Manager, not theory, each one is tied to a real decision I made, with the reasoning laid out so it's reusable beyond the specific situation it came from.
 
-Most PM portfolios show *what* got shipped. This one is about *how* the decision got made, the criteria, the tradeoffs, and what I'd do differently.
+This one is about *how* the decision got made, the criteria, the tradeoffs, and what I'd do differently.
 
 ## Frameworks
 
